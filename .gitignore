@@ -1,0 +1,34 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+.pytest_cache/
+.mypy_cache/
+
+# Node
+node_modules/
+.next/
+apps/web/.next-careeros/
+out/
+dist/
+npm-debug.log*
+*.log
+logs/
+tmp/
+temp/
+.codex-review/
+
+# Env
+.env
+.env.*
+!.env.example
+
+# OS
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Generated
+coverage/
+htmlcov/
